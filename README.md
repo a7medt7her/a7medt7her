@@ -22,7 +22,7 @@ Through my projects, I've worked on chat, e-commerce, news, weather and note-tak
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 <img alt="Bloc" src="assets/badge-Bloc.svg">
 <img alt="Dio" src="assets/badge-Dio.svg">
-<img alt="Hive" src="https://img.shields.io/badge/Hive-F5A623?style=for-the-badge">
+<img alt="Hive" src="assets/badge-Hive.svg">
 </p>
 
 ## How I build
