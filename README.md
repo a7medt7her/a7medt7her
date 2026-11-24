@@ -6,7 +6,15 @@
 
 </div>
 
-## Tech
+## About
+
+I'm Ahmed Taher, a Computer Science graduate from the Class of 2025, focused on mobile app development with Flutter and Dart.
+
+I build apps with Firebase Authentication and Cloud Firestore for sign-in and live data, Dio for REST API integration, and Hive for local storage. I use Bloc and Cubit to manage app state, and get_it for dependency injection.
+
+Through my projects, I've worked on chat, e-commerce, news, weather and note-taking apps. My work includes authentication, API integration, local data storage, and organizing code into UI, state management and data layers.
+
+## Tech stack
 
 <p>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -16,6 +24,15 @@
 <img alt="Dio" src="assets/badge-Dio.svg">
 <img alt="Hive" src="https://img.shields.io/badge/Hive-F5A623?style=for-the-badge">
 </p>
+
+## How I build
+
+| Area | What I use |
+|:--|:--|
+| **State management** | Bloc and Cubit, keeping UI separate from business logic |
+| **Backend and APIs** | Firebase Auth and Cloud Firestore, REST APIs with Dio, token kept in secure storage |
+| **Structure** | Feature-based folders, shared helpers and widgets, dependency injection with get_it |
+| **Data** | Local storage with Hive, error handling with Dartz `Either` |
 
 ## Featured projects
 
@@ -56,14 +73,8 @@ Notes app with local storage using Hive. Create, edit, delete, mark done, and so
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-### [kynex](https://github.com/a7medt7her/kynex) <sub>in progress</sub>
-Fitness app with Firebase authentication and a step-by-step profile setup: measurements, goal, activity level, and kg/lb and cm/ft units.
-
-`Flutter` `Cubit` `Firebase Auth` `Cloud Firestore`
-
-</td>
-</tr>
 </table>
+
+---
+
+<sub>Each project README explains what the app does, how it is built and how to run it.</sub>
